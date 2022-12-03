@@ -21,6 +21,10 @@ Your code output should loop numbers from 1 to 100, however the logic should als
 
 **Installation**  
 ```
-npm install  
+npm install
+```
+
+**Testing**  
+```
 npm test
 ```
