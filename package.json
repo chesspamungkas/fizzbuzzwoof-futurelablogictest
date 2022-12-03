@@ -1,0 +1,16 @@
+{
+  "name": "fizzbuzzwoof-futurelablogictest",
+  "version": "1.0.0",
+  "description": "Fizz Buzz Woof - FutureLab Logic Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "keywords": [],
+  "author": "Catur Pamungkas",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0"
+  }
+}
