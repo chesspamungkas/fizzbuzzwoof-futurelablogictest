@@ -19,6 +19,8 @@ Your code output should loop numbers from 1 to 100, however the logic should als
 35 – Fizz Buzz Buzz Woof (contains 3, contains 5, divisible by 5 and divisible by 7)  
 55 – Buzz Buzz Buzz (contains 2x 5, divisible by 5)  
 
-**Installation  
-npm install
+**Installation**  
+```
+npm install  
 npm test
+```
